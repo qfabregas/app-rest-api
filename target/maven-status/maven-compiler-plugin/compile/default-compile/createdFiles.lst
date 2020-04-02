@@ -1,0 +1,13 @@
+com\avoris\restapi\model\Parameter.class
+com\avoris\restapi\AppRestApi.class
+com\avoris\restapi\controller\LanguageController.class
+com\avoris\restapi\controller\ParameterController.class
+com\avoris\restapi\repository\ParameterRepo.class
+com\avoris\restapi\service\LanguageService.class
+com\avoris\restapi\service\ParameterService.class
+com\avoris\restapi\exception\GlobalExceptionHandler.class
+com\avoris\restapi\exception\ErrorDetails.class
+com\avoris\restapi\controller\BaseController.class
+com\avoris\restapi\repository\LanguageRepo.class
+com\avoris\restapi\model\Language.class
+com\avoris\restapi\exception\ResourceNotFoundException.class

@@ -1,0 +1,13 @@
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\exception\ErrorDetails.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\model\Language.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\controller\BaseController.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\repository\LanguageRepo.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\exception\ResourceNotFoundException.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\repository\ParameterRepo.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\service\ParameterService.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\AppRestApi.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\controller\LanguageController.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\model\Parameter.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\controller\ParameterController.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\service\LanguageService.java
+C:\SerhsTourism\spring\app-rest-api\src\main\java\com\avoris\restapi\exception\GlobalExceptionHandler.java

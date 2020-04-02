@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.avoris.restapi.AppRestApiTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.51 s - in com.avoris.restapi.AppRestApiTests
